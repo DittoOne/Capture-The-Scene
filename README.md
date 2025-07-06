@@ -24,14 +24,6 @@ This tool extracts key frames from a video and stitches them together to generat
 - Matplotlib
 - OS, pathlib
 
----
-
-## 🎥 Demo
-
-https://user-images.githubusercontent.com/yourusername/yourdemo.mp4  
-📌 *Replace this link with your actual demo video showing the input video and resulting panorama.*
-
----
 
 ## 🚀 Getting Started
 
