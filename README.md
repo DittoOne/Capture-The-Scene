@@ -46,7 +46,6 @@ Ensure the following Python packages are installed:
 ## 🎥 Demo
 
 ✅ Check out how it works in this video:
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 [![Watch the Demo]](https://drive.google.com/file/d/1OJ47AP75xOsq3r3Q9y1TW6tqJRugN0rm/view?usp=drive_link)
 
 🌐 LinkedIn Profile [Md Shahriar Rahman Bhuiyan](https://www.linkedin.com/in/md-shahriar-rahman-bhuiyan-3893012a8)
